@@ -8,8 +8,15 @@ const projects = [
     title: "Runiverse",
     category: "India's First Gamified Running App",
     tools: "React Native, Expo, TypeScript, Mapbox, MongoDB",
-    image: "/images/placeholder.webp",
+    image: "/images/Runiverse.png",
     link: "https://play.google.com/store/apps/details?id=com.imagine_x.Runiverse&hl=en_IN",
+  },
+  {
+    title: "Runiverse — Website",
+    category: "3D Interactive Running Experience",
+    tools: "Next.js, Three.js, React Three Fiber, GSAP, Tailwind CSS, TypeScript, Brevo, Vercel",
+    image: "/images/Runiverse-web.png",
+    link: "https://www.runiverse.fit",
   },
   {
     title: "Financial CRM",
@@ -22,14 +29,14 @@ const projects = [
     title: "TailorPro",
     category: "SaaS for Tailor Order Management",
     tools: "Next.js, Appwrite, jsPDF, Google OAuth, TypeScript",
-    image: "/images/placeholder.webp",
+    image: "/images/Tailer-pro.png",
     link: "#",
   },
   {
     title: "NoteMe",
     category: "Sticky Notes Chrome Extension",
     tools: "JavaScript, Chrome Extensions API, Manifest V3, HTML/CSS",
-    image: "/images/placeholder.webp",
+    image: "/images/Note-me.png",
     link: "#",
   },
 ];
