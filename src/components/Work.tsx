@@ -16,7 +16,7 @@ const projects = [
     category: "3D Interactive Running Experience",
     tools: "Next.js, Three.js, React Three Fiber, GSAP, Tailwind CSS, TypeScript, Brevo, Vercel",
     image: "/images/Runiverse-web.png",
-    link: "https://www.runiverse.fit",
+    link: "https://www.runiverse.fit/",
   },
   {
     title: "Financial CRM",
@@ -30,14 +30,14 @@ const projects = [
     category: "SaaS for Tailor Order Management",
     tools: "Next.js, Appwrite, jsPDF, Google OAuth, TypeScript",
     image: "/images/Tailer-pro.png",
-    link: "#",
+    link: "https://tailor-pro-virid.vercel.app/dashboard",
   },
   {
     title: "NoteMe",
     category: "Sticky Notes Chrome Extension",
     tools: "JavaScript, Chrome Extensions API, Manifest V3, HTML/CSS",
     image: "/images/Note-me.png",
-    link: "#",
+    link: "https://chromewebstore.google.com/detail/noteme/cmngjelfbeidndnhnfffcokjlfldelcl?hl=en",
   },
 ];
 
