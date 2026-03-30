@@ -2,8 +2,8 @@ import {
   FaGithub,
   FaInstagram,
   FaLinkedinIn,
-  FaYoutube,
 } from "react-icons/fa6";
+import { MdEmail } from "react-icons/md";
 import "./styles/SocialIcons.css";
 import { TbNotes } from "react-icons/tb";
 import { useEffect } from "react";
@@ -61,7 +61,7 @@ const SocialIcons = () => {
       <div className="social-icons" data-cursor="icons" id="social">
         <span>
           <a
-            href="https://github.com/akashrmalhotra"
+            href="https://github.com/HITMAN5050"
             target="_blank"
             rel="noreferrer"
           >
@@ -70,7 +70,7 @@ const SocialIcons = () => {
         </span>
         <span>
           <a
-            href="https://www.linkedin.com/in/akashrmalhotra/"
+            href="https://www.linkedin.com/in/daksh-amalseda-879b7934a/"
             target="_blank"
             rel="noreferrer"
           >
@@ -79,16 +79,16 @@ const SocialIcons = () => {
         </span>
         <span>
           <a
-            href="https://www.youtube.com/@Leftbraincoder"
+            href="mailto:dakshamalseda@gmail.com"
             target="_blank"
             rel="noreferrer"
           >
-            <FaYoutube />
+            <MdEmail />
           </a>
         </span>
         <span>
           <a
-            href="https://www.instagram.com/leftbraincoder/"
+            href="https://instagram.com/daksh_runss"
             target="_blank"
             rel="noreferrer"
           >
@@ -98,7 +98,7 @@ const SocialIcons = () => {
       </div>
       <a
         className="resume-button"
-        href="/Akash_Malhotra.pdf"
+        href="/Daksh_Amalseda.pdf"
         target="_blank"
         rel="noreferrer"
       >
